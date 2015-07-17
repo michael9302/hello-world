@@ -1,6 +1,6 @@
 # hello-world
 
-Hi nerds,
+Hi everyone,
 
 I don't think it is self-evident that all men are created equal.
 
